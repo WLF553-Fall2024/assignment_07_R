@@ -2,3 +2,4 @@
 *.Rproj
 *.Rhistory
 *solution.R
+.Rproj.user
